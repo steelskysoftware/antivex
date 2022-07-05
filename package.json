@@ -1,0 +1,26 @@
+{
+  "name": "@steelskysoftware/antivex",
+  "author": "steelskysoftware",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com/steelskysoftware/antivex.git"
+  },
+  "keywords": [
+    "vscode",
+    "extensions"
+  ],
+  "displayName": "Antivex",
+  "description": "Collection of extensions to remove or fix a specific set of annoyances, quirks and UI/UX issues with VS Code.",
+  "version": "0.0.1",
+  "engines": {
+      "vscode": "^1.68.0"
+  },
+  "bugs": {
+    "url": "https://github.com/steelskysoftware/antivex/issues"
+  },
+  "homepage": "https://github.com/steelskysoftware/antivex#readme"
+}
